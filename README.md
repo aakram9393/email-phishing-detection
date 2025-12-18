@@ -66,6 +66,7 @@ Emails change → model monitoring
 │  Postgres      │
 │  + S3/MinIO    │
 └────────────────┘
+
 ### Tech stack (Python, FastAPI, ML, Docker)
 ML & Backend
 Python 3.11
