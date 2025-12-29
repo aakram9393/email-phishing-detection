@@ -1,0 +1,6 @@
+# Ignore saved ML artifacts
+model.pki
+vectorizer.pki
+
+# If you later decide to ignore all pickle-like files, you can use:
+# *.pki
