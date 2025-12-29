@@ -4,3 +4,6 @@ vectorizer.pki
 
 # If you later decide to ignore all pickle-like files, you can use:
 # *.pki
+
+# Ignore any .pki files saved in notebooks (where you placed your artifacts)
+ml/notebooks/*.pki
